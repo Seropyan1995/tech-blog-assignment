@@ -36,7 +36,7 @@ The following images display the web application's appearance and functionality:
 
 There is no installation required for this website. The webpage can be found by clicking the link below:
 
-[Tech-Blog-Heroku](https://caros-tech-blog-5b902c01d0b5.herokuapp.com/)
+[Tech-Blog-Heroku](https://techblog-site-07aa7a73529e.herokuapp.com/)
 
 ## Questions
 
